@@ -1,10 +1,9 @@
 # Write your code here
 
-currency = []
-currency.each. do |x|
-  
 def used_to_eur(dollar)
+  dollar=euro*
 end
 
 def eur_to_usd(euros)
+  euro=dollar*
 end
